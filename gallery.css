@@ -1,0 +1,17 @@
+﻿body{
+	color:white;
+	margin:0px;
+	padding:0px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	overflow:auto;
+	font-size:12px;
+	background-color:#0a0a0a;
+}
+
+article > img{
+	border-radius:9px;
+}
+
+p{
+	font-family:"Courier New", Courier, monospace;
+}
